@@ -1,0 +1,4 @@
+2019-05-17  Enrolled the course.
+2019-05-18  Watched video 12, got error when running the spring initializr generated blank web application. Reason being just typo.
+            Instead of typing ./mvnw spring-boot:run, I typed in ./mvnw springboot:run.
+2019-05-18  Signed up with Github and initialized this project.
